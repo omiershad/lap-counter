@@ -1,0 +1,1 @@
+A simple lap counter that was built using HTML, CSS, and JavaScript.
